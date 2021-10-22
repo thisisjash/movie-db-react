@@ -1,3 +1,4 @@
+// importing the variables we configured in config.js file 
 import {
   SEARCH_BASE_URL,
   POPULAR_BASE_URL,
